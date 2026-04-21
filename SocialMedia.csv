@@ -1,0 +1,500 @@
+Campaign_ID,Target_Audience,Campaign_Goal,Duration,Channel_Used,Conversion_Rate,Acquisition_Cost,ROI,Location,Language,Clicks,Impressions,Engagement_Score,Customer_Segment,Date,Company
+529013,Men 35-44,Product Launch,15 Days,Instagram,0.15,$500.00,5.79,Las Vegas,Spanish,500,3000,7,Health,25/02/2022,Aura Align
+275352,Women 45-60,Market Expansion,15 Days,Facebook,0.01,$500.00,7.21,Los Angeles,French,500,3000,5,Home,12/05/2022,Hearth Harmony
+692322,Men 45-60,Product Launch,15 Days,Instagram,0.08,$500.00,0.43,Austin,Spanish,500,3000,9,Technology,19/06/2022,Cyber Circuit
+675757,Men 25-34,Increase Sales,15 Days,Pinterest,0.03,$500.00,0.909823572,Miami,Spanish,293,1937,1,Health,08/09/2022,Well Wish
+535900,Men 45-60,Market Expansion,15 Days,Pinterest,0.13,$500.00,1.422828219,Austin,French,293,1937,1,Home,24/08/2022,Hearth Harmony
+323031,Women 35-44,Product Launch,15 Days,Facebook,0.02,$500.00,6.9,Austin,Spanish,500,3001,10,Technology,15/01/2022,Cyber Circuit
+727501,All Ages,Increase Sales,15 Days,Pinterest,0.1,$500.00,0.679239602,Los Angeles,French,293,1938,1,Home,30/10/2022,Space Spruce
+289553,Men 25-34,Product Launch,15 Days,Pinterest,0.1,$500.00,1.00992204,Miami,English,293,1938,1,Food,23/07/2022,Feast Flavors
+942511,Men 35-44,Market Expansion,15 Days,Twitter,0.14,$500.00,1.19,Los Angeles,French,501,3003,8,Food,14/08/2022,Culinary Quest
+255854,Women 45-60,Increase Sales,15 Days,Facebook,0.04,$500.00,1.65,Miami,English,501,3003,9,Food,23/03/2022,Gourmet Grove
+204863,Men 45-60,Market Expansion,15 Days,Instagram,0.08,$500.00,2.81,Las Vegas,English,501,3003,8,Technology,24/08/2022,Silicon Saga
+147351,Women 25-34,Increase Sales,15 Days,Twitter,0.05,$500.00,5.02,Austin,Spanish,501,3004,8,Fashion,25/09/2022,Mode Maven
+320183,All Ages,Product Launch,15 Days,Pinterest,0.04,$500.00,0.12869803,Miami,Spanish,294,1939,1,Home,05/03/2022,Homely Haven
+998847,Men 18-24,Increase Sales,15 Days,Instagram,0.09,$500.00,0.94,Las Vegas,Spanish,501,3005,8,Technology,11/06/2022,Cyber Circuit
+174406,Women 25-34,Product Launch,15 Days,Facebook,0.13,$500.00,0.89,Austin,English,501,3005,6,Health,26/12/2022,Aura Align
+584909,Women 25-34,Increase Sales,15 Days,Instagram,0.06,$500.00,7.32,New York,Spanish,501,3005,4,Food,21/04/2022,Gourmet Grove
+414326,Women 18-24,Market Expansion,15 Days,Twitter,0.03,$500.00,4.08,Los Angeles,English,502,3006,10,Health,08/01/2022,Aura Align
+854283,Men 25-34,Market Expansion,15 Days,Facebook,0.05,$500.00,2.16,Miami,French,502,3006,8,Technology,20/08/2022,Gadget Giants
+372311,Men 18-24,Product Launch,15 Days,Twitter,0.02,$500.00,6.82,New York,French,502,3007,9,Home,23/04/2022,Domestic Dream
+687141,Men 25-34,Brand Awareness,15 Days,Twitter,0.04,$500.00,5.26,Miami,French,502,3007,10,Health,29/08/2022,Heal Hub
+706867,Women 25-34,Product Launch,15 Days,Instagram,0.02,$500.00,0.08,Los Angeles,French,502,3007,4,Home,22/11/2022,Dwell Delight
+515930,Women 35-44,Market Expansion,15 Days,Twitter,0.07,$500.00,3.67,Austin,English,502,3008,2,Fashion,05/01/2022,Trend Tailors
+605950,Men 25-34,Product Launch,15 Days,Twitter,0.03,$500.00,4.55,New York,Spanish,502,3008,2,Health,30/05/2022,Well Wish
+550372,Women 18-24,Increase Sales,15 Days,Instagram,0.03,$500.00,6.48,Los Angeles,French,503,3008,7,Food,16/03/2022,Gastronomy Guild
+622059,Men 35-44,Product Launch,15 Days,Twitter,0.04,$500.00,6.42,Las Vegas,French,503,3009,10,Food,04/05/2022,Nosh Nirvana
+975243,Men 45-60,Product Launch,15 Days,Facebook,0.03,$500.00,4,Miami,French,503,3009,5,Health,07/08/2022,Vigor Valley
+592659,All Ages,Product Launch,15 Days,Facebook,0.12,$500.00,6.72,Miami,English,503,3010,2,Health,13/11/2022,Balance Beam
+484424,Women 45-60,Market Expansion,15 Days,Instagram,0.03,$500.00,3.28,Las Vegas,French,503,3010,2,Fashion,24/04/2022,Style Sphere
+567173,All Ages,Increase Sales,15 Days,Facebook,0.06,$500.00,1.08,New York,French,503,3010,6,Food,28/11/2022,Feast Flavors
+637528,Women 45-60,Product Launch,15 Days,Pinterest,0.03,$500.00,0.319957602,Las Vegas,Spanish,295,1944,1,Fashion,09/10/2022,Fiber Fashion
+227507,Men 35-44,Increase Sales,15 Days,Pinterest,0.04,$500.00,0.936635662,New York,Spanish,295,1944,1,Fashion,17/06/2022,Attire Artistry
+328643,Women 45-60,Increase Sales,15 Days,Facebook,0.04,$500.00,1.1,Los Angeles,Spanish,504,3012,3,Technology,29/03/2022,Quantum Quirks
+181806,Men 25-34,Brand Awareness,15 Days,Pinterest,0.07,$500.00,0.675664657,Austin,Spanish,296,1944,1,Food,31/08/2022,Savor Street
+349225,Men 18-24,Increase Sales,15 Days,Twitter,0.08,$500.00,5.31,New York,French,504,3012,5,Health,13/08/2022,Fitness Front
+712876,Men 18-24,Increase Sales,15 Days,Twitter,0.04,$500.00,2.77,New York,Spanish,504,3013,5,Technology,19/09/2022,Quantum Quirks
+699436,Women 18-24,Product Launch,15 Days,Instagram,0.06,$500.00,0.62,New York,Spanish,504,3013,8,Food,11/07/2022,Culinary Quest
+265261,Women 18-24,Market Expansion,15 Days,Instagram,0.11,$500.00,3.66,New York,French,504,3014,7,Home,31/05/2022,Hearth Harmony
+709511,Men 25-34,Increase Sales,15 Days,Instagram,0.07,$500.00,0.98,Miami,Spanish,504,3014,8,Fashion,03/04/2022,Silk & Style
+593946,Men 25-34,Market Expansion,15 Days,Twitter,0.12,$500.00,3.28,Los Angeles,English,505,3014,1,Food,08/12/2022,Palate Paradise
+286444,Women 45-60,Market Expansion,15 Days,Instagram,0.15,$500.00,4.73,Las Vegas,Spanish,505,3015,6,Technology,27/08/2022,NexGen Nerds
+558829,Men 35-44,Brand Awareness,15 Days,Twitter,0.04,$500.00,3.11,Austin,Spanish,505,3015,2,Home,03/05/2022,Living Luxe
+166912,Women 45-60,Increase Sales,15 Days,Instagram,0.11,$500.00,5.2,Las Vegas,Spanish,505,3015,3,Food,21/05/2022,Gastronomy Guild
+510439,Women 25-34,Increase Sales,15 Days,Pinterest,0.06,$500.00,0.811512577,Las Vegas,French,296,1947,1,Fashion,11/06/2022,Trend Tailors
+617513,Men 18-24,Brand Awareness,15 Days,Facebook,0.1,$500.00,4.59,Miami,French,505,3016,5,Health,13/12/2022,Fitness Front
+517983,Men 45-60,Market Expansion,15 Days,Instagram,0.14,$500.00,1.73,Miami,French,505,3017,9,Health,13/06/2022,Wellness Waves
+211811,Men 45-60,Product Launch,15 Days,Pinterest,0.03,$500.00,0.909823572,New York,English,296,1947,1,Health,13/12/2022,Fitness Front
+793457,Women 45-60,Market Expansion,15 Days,Facebook,0.14,$500.00,5.8,Los Angeles,English,506,3017,1,Technology,24/10/2022,Tech Titans
+353730,Men 45-60,Product Launch,15 Days,Twitter,0.15,$500.00,2.14,Austin,Spanish,506,3018,4,Home,16/06/2022,Dwell Delight
+412130,Men 35-44,Market Expansion,15 Days,Pinterest,0.09,$500.00,0.77933807,Austin,English,297,1948,1,Health,13/11/2022,Vigor Valley
+470283,Men 35-44,Increase Sales,15 Days,Instagram,0.08,$500.00,5.39,Los Angeles,English,506,3019,9,Technology,11/01/2022,Giga Geeks
+348595,Women 35-44,Product Launch,15 Days,Instagram,0.07,$500.00,3.22,Austin,Spanish,506,3019,10,Home,01/04/2022,Dwell Delight
+290886,Men 18-24,Brand Awareness,15 Days,Facebook,0.15,$500.00,6.58,Los Angeles,Spanish,506,3019,3,Fashion,17/05/2022,Runway Rebels
+781634,Men 35-44,Increase Sales,15 Days,Instagram,0.03,$500.00,2.16,Miami,English,506,3020,8,Fashion,08/10/2022,Glam Garments
+610660,Men 25-34,Market Expansion,15 Days,Twitter,0.03,$500.00,4.99,Las Vegas,French,506,3020,6,Home,10/07/2022,Nest Neat
+431414,All Ages,Increase Sales,15 Days,Instagram,0.11,$500.00,6.66,Miami,French,507,3021,9,Home,25/03/2022,Domestic Dream
+736853,Women 25-34,Product Launch,15 Days,Twitter,0.08,$500.00,4.26,Miami,Spanish,507,3021,6,Technology,09/09/2022,Giga Geeks
+634392,Men 18-24,Increase Sales,15 Days,Pinterest,0.13,$500.00,0.825812358,Austin,English,297,1950,1,Fashion,06/07/2022,Mode Maven
+740168,All Ages,Product Launch,15 Days,Facebook,0.13,$500.00,5.46,Los Angeles,English,507,3022,7,Health,19/06/2022,Elixir Essence
+637362,Women 35-44,Brand Awareness,15 Days,Facebook,0.03,$500.00,4.35,New York,English,507,3022,4,Food,28/05/2022,Dine Divine
+115987,Women 25-34,Brand Awareness,15 Days,Instagram,0.07,$500.00,3.8,New York,Spanish,507,3023,6,Health,17/06/2022,Vigor Valley
+917692,Men 45-60,Increase Sales,15 Days,Facebook,0.04,$500.00,7.76,Austin,English,507,3023,1,Fashion,30/01/2022,Glam Garments
+737478,Women 45-60,Increase Sales,15 Days,Instagram,0.09,$500.00,1.67,Las Vegas,French,508,3023,8,Home,08/11/2022,Living Luxe
+504887,Men 45-60,Increase Sales,15 Days,Pinterest,0.02,$500.00,0.339619801,Austin,French,298,1952,1,Food,06/04/2022,Palate Paradise
+866583,All Ages,Market Expansion,15 Days,Pinterest,0.08,$500.00,0.600590806,Austin,English,298,1952,1,Technology,23/10/2022,Tech Titans
+877484,Women 45-60,Market Expansion,15 Days,Facebook,0.08,$500.00,6.99,Miami,English,508,3024,8,Technology,29/07/2022,Giga Geeks
+297945,Women 25-34,Product Launch,15 Days,Facebook,0.15,$500.00,2.36,Austin,English,508,3025,10,Technology,28/05/2022,Giga Geeks
+172917,Men 35-44,Product Launch,15 Days,Facebook,0.03,$500.00,3.69,Austin,English,508,3025,10,Technology,22/02/2022,NexGen Nerds
+895264,Women 18-24,Increase Sales,15 Days,Twitter,0.08,$500.00,0.72,Las Vegas,French,508,3026,9,Technology,22/08/2022,Gadget Giants
+479934,Men 18-24,Market Expansion,15 Days,Twitter,0.05,$500.00,4,New York,English,508,3026,6,Fashion,30/12/2022,Mode Maven
+617071,Women 35-44,Product Launch,15 Days,Pinterest,0.14,$500.00,0.355707055,Las Vegas,Spanish,298,1953,1,Fashion,29/09/2022,Glam Garments
+191099,Women 35-44,Increase Sales,15 Days,Twitter,0.07,$500.00,3.08,New York,French,509,3027,6,Fashion,04/08/2022,Fiber Fashion
+254049,Women 18-24,Product Launch,15 Days,Twitter,0.1,$500.00,5.44,Miami,Spanish,509,3027,8,Technology,29/10/2022,Cyber Circuit
+531214,Women 25-34,Product Launch,15 Days,Facebook,0.12,$500.00,4.93,Los Angeles,Spanish,509,3028,4,Health,17/12/2022,Aura Align
+834091,Women 35-44,Brand Awareness,15 Days,Facebook,0.08,$500.00,4.4,Austin,Spanish,509,3028,4,Health,15/06/2022,Wellness Waves
+302929,All Ages,Increase Sales,15 Days,Twitter,0.14,$500.00,0.89,Miami,English,509,3028,9,Food,23/09/2022,Savor Street
+232773,Women 25-34,Market Expansion,15 Days,Pinterest,0.02,$500.00,0.243096279,New York,French,298,1955,1,Fashion,28/05/2022,Chic Couture
+442023,Women 18-24,Increase Sales,15 Days,Facebook,0.12,$500.00,5.37,Miami,French,510,3029,8,Home,22/10/2022,Hearth Harmony
+532831,Women 25-34,Increase Sales,15 Days,Facebook,0.02,$500.00,2.69,Austin,French,510,3030,6,Health,29/08/2022,Aura Align
+669494,Men 25-34,Increase Sales,15 Days,Instagram,0.03,$500.00,7.98,Los Angeles,Spanish,510,3030,1,Fashion,26/05/2022,Fiber Fashion
+559035,Men 35-44,Brand Awareness,15 Days,Instagram,0.11,$500.00,0.43,Miami,Spanish,510,3030,10,Fashion,12/09/2022,Fiber Fashion
+160091,Women 45-60,Product Launch,15 Days,Instagram,0.09,$500.00,1.02,Austin,Spanish,510,3031,5,Technology,12/03/2022,Silicon Saga
+114654,Women 18-24,Market Expansion,15 Days,Twitter,0.11,$500.00,0.89,Las Vegas,Spanish,510,3031,5,Health,06/02/2022,Vital Vigor
+606516,Women 35-44,Market Expansion,15 Days,Facebook,0.06,$500.00,0.91,Austin,Spanish,510,3031,3,Health,02/11/2022,Vital Vigor
+775214,Women 45-60,Increase Sales,15 Days,Twitter,0.13,$500.00,2.23,Miami,French,510,3032,8,Food,09/10/2022,Gourmet Grove
+661549,Men 25-34,Increase Sales,15 Days,Facebook,0.03,$500.00,2.7,Austin,Spanish,511,3032,3,Technology,13/03/2022,Innovate Infinity
+317049,Men 35-44,Increase Sales,15 Days,Instagram,0.04,$500.00,2.23,Austin,Spanish,511,3033,9,Home,30/08/2022,Homely Haven
+546620,Men 45-60,Brand Awareness,15 Days,Pinterest,0.05,$500.00,0.477255194,Miami,French,300,1958,1,Technology,25/12/2022,NexGen Nerds
+173426,Women 18-24,Brand Awareness,15 Days,Pinterest,0.05,$500.00,0.336044856,Las Vegas,English,300,1958,1,Food,20/10/2022,Savor Street
+312206,All Ages,Increase Sales,15 Days,Pinterest,0.09,$500.00,0.389669035,Los Angeles,Spanish,300,1958,1,Technology,14/11/2022,NexGen Nerds
+846672,All Ages,Brand Awareness,15 Days,Twitter,0.05,$500.00,3.4,Las Vegas,Spanish,511,3034,2,Health,15/07/2022,Heal Hub
+811182,Men 18-24,Product Launch,15 Days,Twitter,0.05,$500.00,6.07,Los Angeles,English,511,3035,4,Food,19/05/2022,Bistro Bliss
+784438,Women 35-44,Product Launch,15 Days,Facebook,0.14,$500.00,0.75,Miami,French,511,3035,1,Food,15/11/2022,Epicurean Edge
+771264,Men 25-34,Increase Sales,15 Days,Twitter,0.07,$500.00,3.95,Las Vegas,Spanish,512,3035,8,Food,19/04/2022,Nosh Nirvana
+145643,Women 35-44,Brand Awareness,15 Days,Twitter,0.13,$500.00,7.82,Las Vegas,Spanish,512,3036,7,Health,14/07/2022,Aura Align
+712060,Men 35-44,Product Launch,15 Days,Instagram,0.14,$500.00,0.2,Austin,Spanish,512,3036,10,Home,04/05/2022,Cozy Corners
+894814,Women 35-44,Brand Awareness,15 Days,Pinterest,0.11,$500.00,1.14576996,Las Vegas,French,300,1960,1,Home,23/12/2022,Space Spruce
+453107,Women 18-24,Market Expansion,15 Days,Pinterest,0.11,$500.00,0.974172587,Los Angeles,English,300,1960,1,Fashion,25/01/2022,Runway Rebels
+958468,Men 18-24,Product Launch,15 Days,Instagram,0.04,$500.00,7.04,New York,Spanish,512,3037,6,Fashion,23/10/2022,Chic Couture
+810373,Women 25-34,Increase Sales,15 Days,Instagram,0.15,$500.00,5.9,Las Vegas,Spanish,512,3038,3,Health,22/05/2022,Elixir Essence
+138083,Men 45-60,Product Launch,15 Days,Instagram,0.14,$500.00,5.07,Las Vegas,English,513,3038,5,Fashion,23/09/2022,Mode Maven
+985678,Women 45-60,Increase Sales,15 Days,Facebook,0.03,$500.00,7.24,Miami,Spanish,513,3039,10,Food,27/09/2022,Gourmet Grove
+993444,Men 25-34,Product Launch,15 Days,Facebook,0.14,$500.00,5.24,Los Angeles,French,513,3039,4,Health,17/08/2022,Elixir Essence
+102978,Men 25-34,Increase Sales,15 Days,Facebook,0.1,$500.00,7.04,Los Angeles,Spanish,513,3039,9,Technology,24/11/2022,Gadget Giants
+829375,Men 25-34,Product Launch,15 Days,Twitter,0.13,$500.00,6.83,New York,Spanish,513,3040,5,Technology,30/05/2022,Innovate Infinity
+854343,Men 45-60,Increase Sales,15 Days,Facebook,0.13,$500.00,5.37,Los Angeles,English,513,3040,6,Technology,11/03/2022,Silicon Saga
+407410,Men 35-44,Product Launch,15 Days,Pinterest,0.08,$500.00,0.405756289,New York,English,301,1962,1,Fashion,30/04/2022,Vogue Visions
+612037,Women 18-24,Product Launch,15 Days,Pinterest,0.08,$500.00,0.5290919,Los Angeles,English,301,1963,1,Home,08/03/2022,Cozy Corners
+220486,Women 45-60,Increase Sales,15 Days,Pinterest,0.14,$500.00,0.46116794,New York,Spanish,301,1963,1,Home,09/06/2022,Hearth Harmony
+780655,Men 25-34,Market Expansion,15 Days,Instagram,0.04,$500.00,2.27,Los Angeles,French,514,3042,5,Fashion,12/04/2022,Chic Couture
+491063,Women 45-60,Product Launch,15 Days,Instagram,0.15,$500.00,1.15,Los Angeles,English,514,3042,1,Food,08/12/2022,Epicurean Edge
+539974,Women 25-34,Increase Sales,15 Days,Facebook,0.05,$500.00,2.82,Miami,Spanish,514,3042,1,Health,25/02/2022,Well Wish
+797385,Women 25-34,Product Launch,15 Days,Pinterest,0.14,$500.00,1.183306885,Los Angeles,French,301,1964,1,Home,28/04/2022,Hearth Harmony
+815079,Men 45-60,Product Launch,15 Days,Pinterest,0.1,$500.00,0.922335881,Las Vegas,Spanish,301,1964,1,Food,29/07/2022,Dine Divine
+972309,Men 18-24,Brand Awareness,15 Days,Twitter,0.06,$500.00,3.09,Austin,Spanish,514,3044,2,Health,22/06/2022,Fitness Front
+490329,Women 25-34,Market Expansion,15 Days,Instagram,0.11,$500.00,4.92,Miami,Spanish,515,3044,2,Health,14/12/2022,Vital Vigor
+115136,Men 45-60,Product Launch,15 Days,Pinterest,0.05,$500.00,1.279830408,Miami,Spanish,302,1965,1,Fashion,21/07/2022,Attire Artistry
+870369,Men 45-60,Market Expansion,15 Days,Pinterest,0.13,$500.00,0.107248358,Miami,Spanish,302,1965,1,Fashion,27/08/2022,Attire Artistry
+848600,Men 45-60,Market Expansion,15 Days,Twitter,0.05,$500.00,6.26,Miami,Spanish,515,3045,4,Health,10/10/2022,Pulse Point
+762177,Women 35-44,Increase Sales,15 Days,Twitter,0.12,$500.00,6,Miami,English,515,3046,6,Home,26/04/2022,Nest Neat
+756481,Women 18-24,Brand Awareness,15 Days,Facebook,0.02,$500.00,4.74,Los Angeles,Spanish,515,3046,8,Health,16/02/2022,Fitness Front
+275734,Women 18-24,Market Expansion,15 Days,Instagram,0.13,$500.00,1.74,Las Vegas,Spanish,515,3046,9,Fashion,16/03/2022,Runway Rebels
+219913,Women 45-60,Product Launch,15 Days,Instagram,0.05,$500.00,6.71,Miami,English,515,3047,2,Technology,22/09/2022,Pixel Pioneers
+931599,Women 25-34,Market Expansion,15 Days,Facebook,0.08,$500.00,1.33,Los Angeles,French,516,3047,5,Fashion,07/10/2022,Attire Artistry
+503164,Women 45-60,Product Launch,15 Days,Pinterest,0.02,$500.00,0.350344637,New York,English,303,1967,1,Technology,01/05/2022,Innovate Infinity
+247762,Men 18-24,Market Expansion,15 Days,Pinterest,0.07,$500.00,0.961660279,New York,Spanish,303,1967,1,Food,28/07/2022,Palate Paradise
+260873,Women 45-60,Increase Sales,15 Days,Facebook,0.07,$500.00,7.62,Austin,English,516,3048,8,Food,22/11/2022,Epicurean Edge
+175382,Women 25-34,Market Expansion,15 Days,Facebook,0.06,$500.00,0.94,Austin,French,516,3049,5,Food,13/07/2022,Savor Street
+825877,Men 45-60,Brand Awareness,15 Days,Instagram,0.07,$500.00,5.68,Los Angeles,English,516,3049,6,Health,15/07/2022,Vital Vigor
+832228,Women 18-24,Brand Awareness,15 Days,Twitter,0.04,$500.00,1.3,New York,Spanish,516,3049,7,Health,13/12/2022,Pulse Point
+294202,Women 45-60,Product Launch,15 Days,Twitter,0.02,$500.00,6.84,Los Angeles,English,516,3050,4,Fashion,14/05/2022,Chic Couture
+774571,Men 45-60,Increase Sales,15 Days,Instagram,0.06,$500.00,2.44,Las Vegas,Spanish,517,3050,1,Home,18/06/2022,Living Luxe
+923974,All Ages,Product Launch,15 Days,Instagram,0.15,$500.00,0.53,Austin,Spanish,517,3051,1,Technology,31/12/2022,NexGen Nerds
+284948,Women 45-60,Market Expansion,15 Days,Instagram,0.03,$500.00,4.96,Las Vegas,English,517,3051,7,Health,28/09/2022,Well Wish
+462803,Men 35-44,Market Expansion,15 Days,Facebook,0.09,$500.00,5.73,Austin,French,517,3051,10,Technology,11/07/2022,Cyber Circuit
+478102,Women 25-34,Increase Sales,15 Days,Twitter,0.08,$500.00,1.4,New York,English,517,3052,3,Food,18/04/2022,Culinary Quest
+831723,Women 18-24,Product Launch,15 Days,Twitter,0.1,$500.00,0.94,Austin,English,517,3052,10,Home,02/11/2022,Cozy Corners
+388358,Men 45-60,Market Expansion,15 Days,Twitter,0.07,$500.00,2.73,Los Angeles,English,517,3053,6,Fashion,03/01/2022,Glam Garments
+616108,All Ages,Increase Sales,15 Days,Twitter,0.02,$500.00,1.48,Los Angeles,English,518,3053,10,Technology,26/02/2022,Code Crafters
+706750,Women 45-60,Increase Sales,15 Days,Facebook,0.06,$500.00,2.04,Los Angeles,French,518,3053,4,Fashion,10/12/2022,Runway Rebels
+477733,All Ages,Product Launch,15 Days,Facebook,0.08,$500.00,0.53,Austin,English,518,3054,1,Food,13/01/2022,Feast Flavors
+775358,Men 25-34,Brand Awareness,15 Days,Instagram,0.06,$500.00,2.65,Los Angeles,English,518,3054,7,Food,08/10/2022,Palate Paradise
+419281,Women 18-24,Product Launch,15 Days,Facebook,0.1,$500.00,3.43,Austin,English,518,3054,7,Fashion,02/09/2022,Glam Garments
+608584,Men 45-60,Market Expansion,15 Days,Instagram,0.03,$500.00,5.6,Las Vegas,French,518,3055,10,Technology,08/03/2022,Giga Geeks
+446052,Men 18-24,Increase Sales,15 Days,Twitter,0.02,$500.00,6.72,Los Angeles,English,518,3055,5,Home,15/01/2022,Decor Dreams
+857356,Women 18-24,Increase Sales,15 Days,Twitter,0.07,$500.00,7.29,Los Angeles,Spanish,518,3056,7,Technology,09/03/2022,Tech Titans
+386310,Men 18-24,Brand Awareness,15 Days,Instagram,0.15,$500.00,4.75,Las Vegas,English,519,3056,2,Food,11/06/2022,Bistro Bliss
+871186,Women 18-24,Market Expansion,15 Days,Instagram,0.06,$500.00,7.92,Miami,English,519,3056,4,Fashion,29/06/2022,Mode Maven
+933705,Women 45-60,Market Expansion,15 Days,Facebook,0.1,$500.00,0.43,Austin,Spanish,519,3057,6,Food,05/10/2022,Dine Divine
+880644,Men 45-60,Increase Sales,15 Days,Facebook,0.05,$500.00,2.86,Los Angeles,English,519,3057,2,Fashion,02/04/2022,Runway Rebels
+791902,Women 18-24,Market Expansion,15 Days,Pinterest,0.1,$500.00,0.282420677,Las Vegas,English,304,1974,1,Technology,29/01/2022,NexGen Nerds
+750700,All Ages,Market Expansion,15 Days,Facebook,0.14,$500.00,4.76,Austin,French,519,3058,8,Food,24/10/2022,Palate Paradise
+519722,Women 18-24,Brand Awareness,15 Days,Instagram,0.02,$500.00,6.76,Austin,French,519,3058,9,Fashion,18/08/2022,Fiber Fashion
+101251,All Ages,Increase Sales,15 Days,Instagram,0.02,$500.00,7.22,Austin,Spanish,520,3059,10,Food,25/03/2022,Feast Flavors
+896749,Women 18-24,Market Expansion,15 Days,Facebook,0.11,$500.00,2.9,Los Angeles,Spanish,520,3059,6,Health,06/09/2022,Balance Beam
+895611,Women 25-34,Brand Awareness,15 Days,Twitter,0.1,$500.00,4.67,Los Angeles,Spanish,520,3060,8,Technology,26/10/2022,NexGen Nerds
+961993,Men 18-24,Brand Awareness,15 Days,Twitter,0.1,$500.00,1.38,Los Angeles,English,520,3060,10,Health,08/02/2022,Vigor Valley
+718042,Women 25-34,Brand Awareness,15 Days,Twitter,0.03,$500.00,5.5,Las Vegas,French,520,3060,8,Technology,26/10/2022,Innovate Infinity
+452273,Women 25-34,Product Launch,15 Days,Facebook,0.03,$500.00,1.01,Los Angeles,English,520,3061,2,Health,09/11/2022,Balance Beam
+895219,Men 25-34,Product Launch,15 Days,Facebook,0.07,$500.00,7.17,Miami,English,520,3061,6,Home,29/07/2022,Homely Haven
+697580,Women 35-44,Increase Sales,15 Days,Facebook,0.09,$500.00,2.14,New York,French,520,3062,10,Fashion,03/08/2022,Mode Maven
+683515,Men 35-44,Brand Awareness,15 Days,Facebook,0.04,$500.00,6.28,Los Angeles,English,521,3062,9,Technology,05/01/2022,Cyber Circuit
+476049,Men 25-34,Increase Sales,15 Days,Twitter,0.13,$500.00,7.81,Miami,Spanish,521,3062,2,Home,21/09/2022,Furnish Fine
+424042,Men 45-60,Brand Awareness,15 Days,Twitter,0.07,$500.00,0.91,Las Vegas,Spanish,521,3063,9,Technology,05/03/2022,Tech Titans
+863524,Men 35-44,Brand Awareness,15 Days,Twitter,0.06,$500.00,6.17,Los Angeles,French,521,3063,10,Food,30/10/2022,Gastronomy Guild
+513257,Women 35-44,Increase Sales,15 Days,Instagram,0.04,$500.00,4.71,New York,Spanish,521,3063,7,Technology,03/02/2022,Silicon Saga
+644032,Women 18-24,Market Expansion,15 Days,Pinterest,0.09,$500.00,0.200196935,Miami,French,305,1978,1,Technology,01/06/2022,Innovate Infinity
+205984,Women 18-24,Market Expansion,15 Days,Instagram,0.14,$500.00,7.94,New York,Spanish,521,3064,10,Food,16/07/2022,Feast Flavors
+527887,All Ages,Increase Sales,15 Days,Instagram,0.13,$500.00,5.91,Los Angeles,English,521,3065,9,Fashion,10/05/2022,Fiber Fashion
+336500,Women 25-34,Increase Sales,15 Days,Twitter,0.02,$500.00,6.9,Las Vegas,French,522,3065,5,Health,02/10/2022,Aura Align
+171698,Women 45-60,Brand Awareness,15 Days,Facebook,0.08,$500.00,2.94,Los Angeles,English,522,3065,6,Food,13/05/2022,Bistro Bliss
+605161,Women 18-24,Brand Awareness,15 Days,Instagram,0.04,$500.00,7.37,Austin,Spanish,522,3066,2,Fashion,31/12/2022,Chic Couture
+516274,Women 18-24,Product Launch,15 Days,Twitter,0.05,$500.00,4.95,Austin,French,522,3066,6,Health,04/11/2022,Fitness Front
+213521,Women 18-24,Increase Sales,15 Days,Instagram,0.11,$500.00,3.26,Miami,French,522,3067,2,Health,11/11/2022,Heal Hub
+823592,Men 35-44,Brand Awareness,15 Days,Twitter,0.12,$500.00,6.14,Miami,English,522,3067,3,Technology,21/01/2022,Pixel Pioneers
+508275,Men 35-44,Product Launch,15 Days,Facebook,0.07,$500.00,6.42,Miami,Spanish,522,3067,2,Fashion,19/01/2022,Chic Couture
+958604,Women 18-24,Market Expansion,15 Days,Facebook,0.1,$500.00,2.44,Las Vegas,Spanish,523,3068,2,Fashion,11/09/2022,Fiber Fashion
+212032,Men 35-44,Increase Sales,15 Days,Twitter,0.07,$500.00,3.97,Austin,English,523,3068,9,Food,13/06/2022,Nosh Nirvana
+706107,All Ages,Increase Sales,15 Days,Instagram,0.13,$500.00,1.54,Los Angeles,English,523,3069,2,Food,06/02/2022,Gourmet Grove
+940198,Men 35-44,Increase Sales,15 Days,Twitter,0.11,$500.00,5.64,Las Vegas,Spanish,523,3069,10,Health,30/08/2022,Well Wish
+463697,Men 45-60,Increase Sales,15 Days,Twitter,0.04,$500.00,5.97,Las Vegas,English,523,3069,8,Technology,27/09/2022,Giga Geeks
+598215,Men 25-34,Brand Awareness,15 Days,Instagram,0.05,$500.00,5.27,Las Vegas,Spanish,523,3070,5,Technology,07/09/2022,Code Crafters
+421276,Women 25-34,Product Launch,15 Days,Facebook,0.02,$500.00,0.37,New York,English,523,3070,2,Home,18/11/2022,Homely Haven
+327582,All Ages,Increase Sales,15 Days,Instagram,0.02,$500.00,5.48,New York,Spanish,523,3070,3,Health,31/12/2022,Aura Align
+874396,Women 45-60,Market Expansion,15 Days,Pinterest,0.14,$500.00,1.244080955,Las Vegas,English,307,1982,1,Home,13/06/2022,Cozy Corners
+887601,Women 45-60,Increase Sales,15 Days,Instagram,0.04,$500.00,7.59,Austin,English,524,3071,6,Fashion,06/10/2022,Mode Maven
+556331,Men 45-60,Market Expansion,15 Days,Instagram,0.1,$500.00,0.8,Los Angeles,English,524,3072,10,Food,27/03/2022,Bistro Bliss
+270183,Men 35-44,Market Expansion,15 Days,Twitter,0.07,$500.00,2.67,Austin,Spanish,524,3072,1,Technology,25/11/2022,Gadget Giants
+947219,All Ages,Increase Sales,15 Days,Pinterest,0.11,$500.00,0.97596006,Los Angeles,French,307,1983,1,Technology,04/05/2022,Pixel Pioneers
+629560,All Ages,Brand Awareness,15 Days,Facebook,0.02,$500.00,6.84,Miami,Spanish,524,3073,7,Home,03/04/2022,Hearth Harmony
+552436,Women 18-24,Brand Awareness,15 Days,Pinterest,0.06,$500.00,0.538029264,Austin,Spanish,307,1984,1,Fashion,07/01/2022,Vogue Visions
+596199,Men 35-44,Increase Sales,15 Days,Instagram,0.11,$500.00,6.58,Austin,Spanish,525,3074,6,Food,02/07/2022,Palate Paradise
+644440,Women 45-60,Brand Awareness,15 Days,Twitter,0.14,$500.00,1.11,Miami,French,525,3074,8,Home,08/02/2022,Space Spruce
+864049,Women 18-24,Increase Sales,15 Days,Facebook,0.1,$500.00,7.81,New York,English,525,3074,8,Food,30/08/2022,Gastronomy Guild
+415723,Women 35-44,Brand Awareness,15 Days,Twitter,0.1,$500.00,4.74,Los Angeles,French,525,3075,10,Home,27/06/2022,Homely Haven
+577040,Men 18-24,Market Expansion,15 Days,Facebook,0.06,$500.00,1.6,Los Angeles,French,525,3075,1,Health,12/06/2022,Elixir Essence
+855948,Women 45-60,Market Expansion,15 Days,Twitter,0.14,$500.00,6.54,Austin,English,525,3076,7,Health,06/01/2022,Well Wish
+972346,Men 25-34,Market Expansion,15 Days,Facebook,0.06,$500.00,0.35,New York,French,525,3076,6,Technology,19/12/2022,Innovate Infinity
+439949,Women 18-24,Brand Awareness,15 Days,Facebook,0.14,$500.00,7.09,New York,French,525,3076,1,Fashion,10/01/2022,Vogue Visions
+593039,Men 18-24,Brand Awareness,15 Days,Instagram,0.06,$500.00,3.88,Los Angeles,Spanish,526,3077,1,Technology,20/05/2022,Pixel Pioneers
+843286,Women 18-24,Increase Sales,15 Days,Facebook,0.02,$500.00,4.71,Las Vegas,English,526,3077,9,Food,06/03/2022,Gastronomy Guild
+293956,Women 35-44,Brand Awareness,15 Days,Twitter,0.14,$500.00,2.51,Miami,French,526,3078,9,Health,30/09/2022,Elixir Essence
+103179,All Ages,Product Launch,15 Days,Twitter,0.08,$500.00,1.27,New York,Spanish,526,3078,2,Health,21/03/2022,Well Wish
+819060,Men 18-24,Product Launch,15 Days,Pinterest,0.05,$500.00,0.312807711,Miami,Spanish,308,1987,1,Home,02/01/2022,Living Luxe
+564377,Women 35-44,Market Expansion,15 Days,Facebook,0.11,$500.00,2.84,New York,French,526,3079,4,Health,04/11/2022,Well Wish
+751378,All Ages,Market Expansion,15 Days,Pinterest,0.04,$500.00,0.436143323,Las Vegas,English,308,1987,1,Health,28/07/2022,Well Wish
+963624,Men 45-60,Market Expansion,15 Days,Instagram,0.05,$500.00,1.57,New York,English,526,3079,10,Technology,01/03/2022,Pixel Pioneers
+105318,Men 45-60,Brand Awareness,15 Days,Instagram,0.14,$500.00,2.89,Miami,English,527,3080,5,Technology,25/01/2022,Code Crafters
+947237,Men 25-34,Brand Awareness,15 Days,Instagram,0.14,$500.00,3.02,Los Angeles,English,527,3080,9,Technology,22/02/2022,Gadget Giants
+555519,All Ages,Product Launch,15 Days,Twitter,0.12,$500.00,4.28,New York,French,527,3081,1,Technology,24/09/2022,Pixel Pioneers
+823003,Women 35-44,Product Launch,15 Days,Twitter,0.02,$500.00,3.27,New York,Spanish,527,3081,2,Health,20/02/2022,Heal Hub
+305008,Women 18-24,Brand Awareness,15 Days,Pinterest,0.11,$500.00,0.353919582,Austin,French,309,1989,1,Technology,21/02/2022,Cyber Circuit
+180585,Women 35-44,Increase Sales,15 Days,Twitter,0.07,$500.00,2.64,Los Angeles,French,527,3082,7,Health,15/02/2022,Well Wish
+195201,All Ages,Brand Awareness,15 Days,Twitter,0.06,$500.00,4.94,Las Vegas,English,527,3082,8,Food,04/04/2022,Bistro Bliss
+537931,Women 25-34,Product Launch,15 Days,Pinterest,0.05,$500.00,0.23058397,Los Angeles,French,310,1990,1,Health,16/07/2022,Aura Align
+522418,Men 25-34,Increase Sales,15 Days,Twitter,0.06,$500.00,1.88,Las Vegas,French,528,3083,2,Health,30/05/2022,Well Wish
+928585,Women 45-60,Market Expansion,15 Days,Instagram,0.05,$500.00,0.34,Las Vegas,English,528,3083,1,Food,02/09/2022,Feast Flavors
+794545,Men 35-44,Increase Sales,15 Days,Twitter,0.08,$500.00,5.53,Las Vegas,French,528,3084,8,Health,31/03/2022,Pulse Point
+317885,All Ages,Product Launch,15 Days,Pinterest,0.15,$500.00,0.895523791,Austin,English,310,1991,1,Food,28/04/2022,Epicurean Edge
+800002,Men 45-60,Increase Sales,15 Days,Facebook,0.07,$500.00,3.67,Los Angeles,French,528,3085,7,Health,24/05/2022,Fitness Front
+757127,Men 45-60,Brand Awareness,15 Days,Facebook,0.08,$500.00,6.34,Austin,Spanish,528,3085,3,Health,27/11/2022,Vital Vigor
+531332,Women 18-24,Product Launch,15 Days,Facebook,0.02,$500.00,7.26,New York,Spanish,528,3085,7,Home,20/08/2022,Furnish Fine
+370738,Men 35-44,Increase Sales,15 Days,Instagram,0.11,$500.00,6.5,Austin,Spanish,529,3086,3,Home,05/09/2022,Nest Neat
+468403,Men 18-24,Brand Awareness,15 Days,Pinterest,0.08,$500.00,1.294130189,Los Angeles,English,310,1992,1,Fashion,08/12/2022,Runway Rebels
+717503,Women 25-34,Increase Sales,15 Days,Instagram,0.08,$500.00,0.46,Austin,English,529,3086,1,Home,03/07/2022,Nest Neat
+512230,Women 18-24,Brand Awareness,15 Days,Pinterest,0.05,$500.00,0.925910826,Miami,English,310,1993,1,Health,28/06/2022,Elixir Essence
+742926,Men 18-24,Brand Awareness,15 Days,Instagram,0.1,$500.00,2.28,Los Angeles,English,529,3087,2,Food,12/05/2022,Nosh Nirvana
+357924,Men 35-44,Brand Awareness,15 Days,Instagram,0.07,$500.00,7.46,New York,French,529,3088,8,Food,28/12/2022,Bistro Bliss
+232996,All Ages,Brand Awareness,15 Days,Instagram,0.14,$500.00,7.04,New York,French,529,3088,4,Fashion,14/05/2022,Chic Couture
+720970,Men 45-60,Brand Awareness,15 Days,Pinterest,0.15,$500.00,0.114398249,Miami,French,311,1993,1,Health,14/03/2022,Balance Beam
+769675,Men 45-60,Increase Sales,15 Days,Instagram,0.08,$500.00,1.15,Austin,English,530,3089,7,Health,09/10/2022,Balance Beam
+914315,Women 45-60,Brand Awareness,15 Days,Instagram,0.14,$500.00,3.7,Austin,French,530,3089,10,Technology,17/08/2022,Giga Geeks
+155484,Women 35-44,Market Expansion,15 Days,Facebook,0.06,$500.00,5.32,Austin,French,530,3090,6,Food,07/12/2022,Gastronomy Guild
+612189,Women 45-60,Increase Sales,15 Days,Pinterest,0.06,$500.00,1.236931065,New York,English,311,1995,1,Health,23/01/2022,Vital Vigor
+460286,Women 45-60,Brand Awareness,15 Days,Pinterest,0.03,$500.00,1.381716348,New York,English,311,1995,1,Fashion,03/02/2022,Glam Garments
+584037,All Ages,Market Expansion,15 Days,Twitter,0.15,$500.00,6.83,Austin,English,530,3091,10,Food,22/12/2022,Epicurean Edge
+139492,Women 25-34,Market Expansion,15 Days,Twitter,0.11,$500.00,4.56,Miami,French,530,3091,4,Food,27/06/2022,Palate Paradise
+187495,Women 45-60,Product Launch,15 Days,Facebook,0.13,$500.00,7.15,New York,English,531,3092,3,Food,12/11/2022,Dine Divine
+151968,Men 25-34,Market Expansion,15 Days,Pinterest,0.03,$500.00,0.425418488,Los Angeles,French,311,1996,1,Food,31/03/2022,Savor Street
+336230,Men 35-44,Increase Sales,15 Days,Instagram,0.02,$500.00,6.37,Miami,French,531,3092,4,Fashion,03/07/2022,Trend Tailors
+210675,Women 45-60,Market Expansion,15 Days,Pinterest,0.11,$500.00,1.381716348,Los Angeles,Spanish,311,1996,1,Home,06/11/2022,Space Spruce
+480311,Women 25-34,Increase Sales,15 Days,Facebook,0.09,$500.00,4.07,Austin,English,531,3093,10,Home,03/04/2022,Hearth Harmony
+435749,Men 18-24,Product Launch,15 Days,Facebook,0.08,$500.00,6.39,New York,French,531,3093,5,Health,17/02/2022,Balance Beam
+877339,Men 45-60,Increase Sales,15 Days,Pinterest,0.06,$500.00,0.414693652,Los Angeles,French,311,1997,1,Technology,24/03/2022,Pixel Pioneers
+389599,Women 18-24,Brand Awareness,15 Days,Twitter,0.02,$500.00,2.64,Las Vegas,French,531,3094,4,Home,30/11/2022,Domestic Dream
+125928,Men 18-24,Market Expansion,15 Days,Instagram,0.02,$500.00,1.85,Austin,English,532,3095,2,Fashion,17/08/2022,Vogue Visions
+112167,All Ages,Market Expansion,15 Days,Pinterest,0.11,$500.00,0.42720596,Miami,French,312,1998,1,Fashion,06/12/2022,Attire Artistry
+193901,Women 18-24,Product Launch,15 Days,Facebook,0.09,$500.00,3.04,Miami,Spanish,532,3095,9,Fashion,11/07/2022,Trend Tailors
+276766,Women 18-24,Increase Sales,15 Days,Pinterest,0.14,$500.00,0.734651254,Miami,English,312,1998,1,Technology,10/04/2022,Code Crafters
+586275,Men 45-60,Product Launch,15 Days,Pinterest,0.04,$500.00,0.929485771,Miami,French,312,1998,1,Home,18/02/2022,Decor Dreams
+923469,Women 25-34,Product Launch,15 Days,Twitter,0.06,$500.00,0.24,Las Vegas,Spanish,532,3097,2,Health,29/09/2022,Vigor Valley
+867212,Women 45-60,Brand Awareness,15 Days,Facebook,0.13,$500.00,0.16,Los Angeles,French,532,3097,7,Home,03/05/2022,Hearth Harmony
+768124,Men 25-34,Increase Sales,15 Days,Twitter,0.08,$500.00,4.93,Los Angeles,Spanish,533,3097,8,Technology,03/02/2022,Giga Geeks
+152992,Men 35-44,Market Expansion,15 Days,Facebook,0.02,$500.00,2.97,New York,English,533,3098,5,Food,22/04/2022,Gastronomy Guild
+841265,Women 45-60,Market Expansion,15 Days,Twitter,0.06,$500.00,6.92,New York,French,533,3098,3,Technology,05/06/2022,NexGen Nerds
+619897,Women 35-44,Brand Awareness,15 Days,Facebook,0.12,$500.00,0.63,Las Vegas,Spanish,533,3099,6,Food,12/06/2022,Palate Paradise
+696209,Men 25-34,Product Launch,15 Days,Instagram,0.11,$500.00,4.45,New York,French,533,3099,6,Food,14/11/2022,Palate Paradise
+717117,Women 18-24,Market Expansion,15 Days,Facebook,0.09,$500.00,7.82,Las Vegas,English,533,3099,4,Fashion,28/07/2022,Trend Tailors
+734040,Women 35-44,Product Launch,15 Days,Instagram,0.07,$500.00,6.36,New York,French,533,3100,10,Technology,15/03/2022,Tech Titans
+576154,Men 25-34,Market Expansion,15 Days,Pinterest,0.08,$500.00,0.868711701,Austin,Spanish,313,2001,1,Technology,31/08/2022,Pixel Pioneers
+432631,Men 35-44,Market Expansion,15 Days,Pinterest,0.1,$500.00,0.577353662,Los Angeles,English,313,2002,1,Technology,07/05/2022,Pixel Pioneers
+487203,Men 35-44,Brand Awareness,15 Days,Instagram,0.14,$500.00,1.29,Los Angeles,French,534,3101,4,Health,29/05/2022,Heal Hub
+416235,Women 45-60,Increase Sales,15 Days,Instagram,0.1,$500.00,7.63,Austin,English,534,3101,7,Fashion,16/07/2022,Fiber Fashion
+892401,Women 45-60,Market Expansion,15 Days,Facebook,0.07,$500.00,5.62,Las Vegas,English,534,3102,3,Technology,20/06/2022,Silicon Saga
+489512,Men 45-60,Increase Sales,15 Days,Facebook,0.08,$500.00,3.15,Miami,Spanish,534,3102,9,Home,10/08/2022,Cozy Corners
+636513,Men 18-24,Increase Sales,15 Days,Pinterest,0.07,$500.00,0.775763124,New York,Spanish,313,2002,1,Health,18/03/2022,Pulse Point
+494966,Women 45-60,Market Expansion,15 Days,Pinterest,0.12,$500.00,1.30128008,New York,Spanish,313,2003,1,Home,29/04/2022,Cozy Corners
+237273,Women 35-44,Brand Awareness,15 Days,Facebook,0.08,$500.00,0.37,Los Angeles,French,535,3103,8,Fashion,13/11/2022,Attire Artistry
+725637,Men 45-60,Increase Sales,15 Days,Facebook,0.06,$500.00,7.88,New York,English,535,3104,5,Technology,03/01/2022,Giga Geeks
+703797,Men 18-24,Market Expansion,15 Days,Twitter,0.05,$500.00,4.44,Austin,English,535,3104,5,Technology,16/02/2022,Tech Titans
+583037,Men 45-60,Product Launch,15 Days,Twitter,0.12,$500.00,5.7,Miami,Spanish,535,3104,1,Home,28/09/2022,Nest Neat
+318850,Women 35-44,Product Launch,15 Days,Facebook,0.09,$500.00,2.38,Los Angeles,Spanish,535,3105,9,Food,24/09/2022,Dine Divine
+295714,Women 18-24,Market Expansion,15 Days,Instagram,0.03,$500.00,2.6,Austin,Spanish,535,3105,3,Technology,08/09/2022,Silicon Saga
+679182,Men 45-60,Brand Awareness,15 Days,Instagram,0.09,$500.00,4.41,Los Angeles,French,535,3106,9,Food,19/11/2022,Palate Paradise
+702257,All Ages,Market Expansion,15 Days,Pinterest,0.15,$500.00,0.659577403,New York,French,314,2005,1,Food,26/01/2022,Feast Flavors
+561552,Women 45-60,Brand Awareness,15 Days,Facebook,0.04,$500.00,6.85,Austin,Spanish,536,3106,4,Health,04/01/2022,Vigor Valley
+795813,Women 45-60,Product Launch,15 Days,Twitter,0.11,$500.00,7.64,Miami,Spanish,536,3107,7,Technology,25/02/2022,Giga Geeks
+254287,Women 18-24,Product Launch,15 Days,Pinterest,0.07,$500.00,0.284208149,Miami,French,314,2006,1,Health,12/10/2022,Wellness Waves
+453297,Women 18-24,Increase Sales,15 Days,Facebook,0.14,$500.00,6.23,Los Angeles,Spanish,536,3108,2,Fashion,11/05/2022,Fiber Fashion
+542384,Men 45-60,Product Launch,15 Days,Pinterest,0.11,$500.00,0.698901801,Austin,French,314,2006,1,Home,01/07/2022,Nest Neat
+726021,All Ages,Market Expansion,15 Days,Twitter,0.11,$500.00,3.29,Las Vegas,French,536,3108,6,Health,21/10/2022,Vital Vigor
+731957,Women 45-60,Increase Sales,15 Days,Pinterest,0.13,$500.00,1.401378547,Austin,English,314,2007,1,Food,11/01/2022,Nosh Nirvana
+511301,Men 18-24,Product Launch,15 Days,Facebook,0.04,$500.00,0.49,Miami,English,536,3109,10,Technology,04/12/2022,Quantum Quirks
+188132,Women 35-44,Market Expansion,15 Days,Pinterest,0.11,$500.00,1.20654403,Austin,French,315,2007,1,Food,11/12/2022,Gastronomy Guild
+614123,Women 35-44,Brand Awareness,15 Days,Instagram,0.05,$500.00,5.56,New York,French,537,3110,4,Health,07/01/2022,Balance Beam
+655113,All Ages,Market Expansion,15 Days,Twitter,0.13,$500.00,2.78,New York,Spanish,537,3110,5,Fashion,26/04/2022,Chic Couture
+716673,Women 45-60,Market Expansion,15 Days,Twitter,0.04,$500.00,6.53,Miami,French,537,3111,9,Home,28/05/2022,Space Spruce
+309163,Men 35-44,Brand Awareness,15 Days,Twitter,0.15,$500.00,1.88,Las Vegas,Spanish,537,3111,3,Food,22/12/2022,Nosh Nirvana
+766447,Men 35-44,Increase Sales,15 Days,Pinterest,0.14,$500.00,0.673877184,New York,French,315,2008,1,Food,20/02/2022,Palate Paradise
+597857,All Ages,Increase Sales,15 Days,Twitter,0.03,$500.00,0.63,New York,French,537,3112,4,Health,13/06/2022,Balance Beam
+470452,All Ages,Market Expansion,15 Days,Twitter,0.01,$500.00,0.32,New York,Spanish,538,3112,8,Health,01/09/2022,Well Wish
+415707,Men 45-60,Product Launch,15 Days,Facebook,0.12,$500.00,4.47,Austin,English,538,3113,10,Fashion,14/03/2022,Mode Maven
+232039,Women 25-34,Brand Awareness,15 Days,Pinterest,0.12,$500.00,0.870499174,New York,French,315,2009,1,Home,14/05/2022,Cozy Corners
+104815,Women 18-24,Brand Awareness,15 Days,Pinterest,0.14,$500.00,1.186881831,Los Angeles,Spanish,315,2009,1,Fashion,27/11/2022,Fiber Fashion
+290515,Women 25-34,Brand Awareness,15 Days,Twitter,0.11,$500.00,6.76,Los Angeles,French,538,3114,3,Home,12/07/2022,Domestic Dream
+881065,Men 18-24,Brand Awareness,15 Days,Facebook,0.14,$500.00,2.66,Austin,French,538,3114,8,Home,09/10/2022,Domestic Dream
+614492,Women 18-24,Increase Sales,15 Days,Pinterest,0.02,$500.00,1.022434348,Las Vegas,English,315,2011,1,Health,29/09/2022,Vigor Valley
+419573,Women 45-60,Market Expansion,15 Days,Facebook,0.13,$500.00,1.42,Austin,Spanish,538,3115,4,Food,05/03/2022,Nosh Nirvana
+920117,Women 18-24,Market Expansion,15 Days,Instagram,0.02,$500.00,6.66,Las Vegas,Spanish,539,3115,1,Technology,16/06/2022,Pixel Pioneers
+730860,Men 18-24,Product Launch,15 Days,Twitter,0.02,$500.00,5.22,Las Vegas,Spanish,539,3116,8,Health,25/04/2022,Wellness Waves
+537372,Men 18-24,Market Expansion,15 Days,Facebook,0.09,$500.00,3.39,New York,French,539,3116,1,Technology,28/02/2022,Pixel Pioneers
+933185,Women 35-44,Brand Awareness,15 Days,Facebook,0.05,$500.00,3.19,Miami,French,539,3117,8,Technology,16/06/2022,Quantum Quirks
+719156,Men 25-34,Brand Awareness,15 Days,Facebook,0.08,$500.00,7.54,New York,Spanish,539,3117,3,Home,21/07/2022,Living Luxe
+335271,Women 18-24,Increase Sales,15 Days,Pinterest,0.09,$500.00,0.98310995,Miami,English,316,2012,1,Home,04/06/2022,Dwell Delight
+417964,Men 18-24,Market Expansion,15 Days,Facebook,0.06,$500.00,2.96,Las Vegas,English,539,3118,2,Home,15/03/2022,Nest Neat
+522659,Men 18-24,Market Expansion,15 Days,Facebook,0.09,$500.00,5,Miami,Spanish,540,3118,1,Health,23/05/2022,Balance Beam
+795912,Women 25-34,Brand Awareness,15 Days,Twitter,0.15,$500.00,7.97,Miami,Spanish,540,3118,9,Fashion,12/12/2022,Vogue Visions
+403550,Women 18-24,Market Expansion,15 Days,Facebook,0.11,$500.00,2.31,Miami,French,540,3119,1,Food,31/03/2022,Culinary Quest
+677353,Men 25-34,Brand Awareness,15 Days,Twitter,0.08,$500.00,6.93,Las Vegas,English,540,3119,9,Home,29/08/2022,Dwell Delight
+489356,Women 25-34,Increase Sales,15 Days,Pinterest,0.07,$500.00,1.13862007,Los Angeles,English,317,2014,1,Health,28/02/2022,Vigor Valley
+197383,Women 45-60,Product Launch,15 Days,Facebook,0.06,$500.00,6.06,Las Vegas,Spanish,540,3120,8,Food,02/10/2022,Nosh Nirvana
+895736,Men 18-24,Brand Awareness,15 Days,Instagram,0.13,$500.00,5.36,Los Angeles,English,540,3120,3,Health,25/01/2022,Pulse Point
+796819,Men 35-44,Product Launch,15 Days,Twitter,0.08,$500.00,7.12,Los Angeles,English,540,3121,9,Technology,13/12/2022,Quantum Quirks
+590062,Women 35-44,Product Launch,15 Days,Pinterest,0.04,$500.00,0.184109682,New York,English,317,2015,1,Health,16/01/2022,Well Wish
+284929,Women 25-34,Increase Sales,15 Days,Instagram,0.08,$500.00,1.42,Austin,English,541,3122,10,Food,12/05/2022,Feast Flavors
+148363,All Ages,Market Expansion,15 Days,Pinterest,0.15,$500.00,1.383503821,Las Vegas,French,317,2015,1,Home,22/07/2022,Dwell Delight
+926354,Men 25-34,Market Expansion,15 Days,Facebook,0.08,$500.00,5.57,Las Vegas,Spanish,541,3122,5,Food,18/02/2022,Bistro Bliss
+111815,Women 25-34,Market Expansion,15 Days,Twitter,0.08,$500.00,3.35,Austin,French,541,3123,10,Technology,25/02/2022,Silicon Saga
+679524,Men 25-34,Product Launch,15 Days,Pinterest,0.13,$500.00,0.12869803,Las Vegas,French,317,2016,1,Fashion,15/04/2022,Vogue Visions
+639622,Men 25-34,Increase Sales,15 Days,Facebook,0.04,$500.00,1.67,Miami,French,541,3124,1,Technology,24/01/2022,Cyber Circuit
+460532,Men 35-44,Market Expansion,15 Days,Twitter,0.14,$500.00,3.53,Las Vegas,French,542,3124,8,Home,15/06/2022,Domestic Dream
+205939,Women 35-44,Increase Sales,15 Days,Facebook,0.05,$500.00,0.33,Las Vegas,English,542,3124,9,Health,26/09/2022,Pulse Point
+595624,Women 45-60,Product Launch,15 Days,Facebook,0.05,$500.00,0.93,Las Vegas,Spanish,542,3125,5,Food,25/10/2022,Bistro Bliss
+997522,Men 45-60,Product Launch,15 Days,Instagram,0.03,$500.00,1.41,Las Vegas,Spanish,542,3125,10,Home,05/10/2022,Decor Dreams
+543326,All Ages,Market Expansion,15 Days,Facebook,0.14,$500.00,6.01,Miami,French,542,3125,5,Home,13/10/2022,Living Luxe
+242089,Women 25-34,Market Expansion,15 Days,Pinterest,0.05,$500.00,0.913398517,New York,Spanish,318,2018,1,Food,05/01/2022,Gourmet Grove
+877146,All Ages,Brand Awareness,15 Days,Twitter,0.12,$500.00,1.68,Miami,Spanish,542,3126,1,Technology,20/06/2022,Pixel Pioneers
+231963,Women 45-60,Increase Sales,15 Days,Pinterest,0.11,$500.00,1.419253274,Las Vegas,Spanish,318,2018,1,Home,26/09/2022,Nest Neat
+512710,Women 25-34,Increase Sales,15 Days,Facebook,0.02,$500.00,1.5,Miami,Spanish,543,3127,8,Home,02/10/2022,Decor Dreams
+955919,Women 18-24,Increase Sales,15 Days,Facebook,0.09,$500.00,5.51,Las Vegas,English,543,3127,2,Technology,03/09/2022,Quantum Quirks
+756005,Men 25-34,Brand Awareness,15 Days,Facebook,0.07,$500.00,2.95,Las Vegas,English,543,3128,9,Food,03/01/2022,Palate Paradise
+298677,Women 25-34,Product Launch,15 Days,Twitter,0.09,$500.00,5.56,Austin,English,543,3128,10,Health,22/09/2022,Pulse Point
+495812,Women 18-24,Market Expansion,15 Days,Pinterest,0.06,$500.00,0.457592995,Los Angeles,Spanish,318,2020,1,Fashion,27/05/2022,Attire Artistry
+300741,Men 25-34,Increase Sales,15 Days,Instagram,0.11,$500.00,5.44,New York,English,543,3129,10,Home,01/08/2022,Homely Haven
+140878,Women 25-34,Market Expansion,15 Days,Twitter,0.02,$500.00,7.62,New York,English,543,3129,5,Food,07/11/2022,Gastronomy Guild
+522969,Women 25-34,Increase Sales,15 Days,Twitter,0.09,$500.00,6.48,Miami,Spanish,543,3130,4,Technology,05/12/2022,Gadget Giants
+998967,Men 45-60,Brand Awareness,15 Days,Facebook,0.05,$500.00,1.53,Los Angeles,Spanish,544,3130,10,Health,24/02/2022,Balance Beam
+225888,All Ages,Product Launch,15 Days,Facebook,0.11,$500.00,5.45,New York,English,544,3131,7,Health,31/05/2022,Aura Align
+497172,All Ages,Brand Awareness,15 Days,Twitter,0.15,$500.00,7.73,Austin,Spanish,544,3131,8,Home,22/04/2022,Dwell Delight
+593515,Men 45-60,Increase Sales,15 Days,Twitter,0.01,$500.00,0,Los Angeles,English,544,3131,5,Technology,03/12/2022,NexGen Nerds
+932268,Women 35-44,Product Launch,15 Days,Twitter,0.14,$500.00,7.96,Los Angeles,Spanish,544,3132,4,Home,16/02/2022,Cozy Corners
+811569,Men 35-44,Increase Sales,15 Days,Instagram,0.05,$500.00,6.23,Los Angeles,English,544,3132,8,Health,16/08/2022,Vigor Valley
+939357,Women 25-34,Product Launch,15 Days,Instagram,0.08,$500.00,0.36,Los Angeles,Spanish,544,3132,7,Health,11/05/2022,Pulse Point
+174900,Women 25-34,Brand Awareness,15 Days,Facebook,0.06,$500.00,6.11,Miami,French,545,3133,6,Home,06/03/2022,Homely Haven
+106589,Men 25-34,Market Expansion,15 Days,Twitter,0.13,$500.00,4.96,Los Angeles,English,545,3133,3,Health,04/11/2022,Fitness Front
+225277,Women 45-60,Market Expansion,15 Days,Facebook,0.07,$500.00,5.01,Miami,English,545,3134,1,Technology,07/07/2022,NexGen Nerds
+877538,Women 35-44,Market Expansion,15 Days,Instagram,0.07,$500.00,1.09,Los Angeles,French,545,3134,3,Food,18/06/2022,Culinary Quest
+584326,Women 18-24,Brand Awareness,15 Days,Instagram,0.13,$500.00,3.34,Los Angeles,Spanish,545,3134,3,Technology,20/05/2022,Gadget Giants
+468808,Women 35-44,Increase Sales,15 Days,Facebook,0.1,$500.00,1.22,Austin,Spanish,545,3135,9,Health,08/10/2022,Well Wish
+574641,Men 25-34,Market Expansion,15 Days,Facebook,0.01,$500.00,1.39,Los Angeles,English,545,3135,6,Home,13/11/2022,Cozy Corners
+283787,Men 35-44,Brand Awareness,15 Days,Instagram,0.06,$500.00,2.52,Miami,Spanish,545,3136,3,Food,14/11/2022,Culinary Quest
+967772,Men 25-34,Increase Sales,15 Days,Facebook,0.12,$500.00,5.67,Austin,Spanish,546,3136,8,Home,20/07/2022,Dwell Delight
+254633,Men 35-44,Product Launch,15 Days,Twitter,0.06,$500.00,6.44,Miami,English,546,3136,5,Health,30/11/2022,Wellness Waves
+902283,Women 25-34,Market Expansion,15 Days,Pinterest,0.13,$500.00,0.352132109,Austin,French,320,2025,1,Home,19/01/2022,Domestic Dream
+621695,Men 45-60,Increase Sales,15 Days,Instagram,0.08,$500.00,5.22,Miami,Spanish,546,3137,2,Food,17/10/2022,Gastronomy Guild
+272392,Women 25-34,Market Expansion,15 Days,Facebook,0.08,$500.00,0.52,Miami,English,546,3138,5,Technology,01/04/2022,Quantum Quirks
+532523,Women 25-34,Product Launch,15 Days,Twitter,0.03,$500.00,5.46,Los Angeles,French,546,3138,2,Home,31/01/2022,Dwell Delight
+709966,All Ages,Increase Sales,15 Days,Twitter,0.09,$500.00,7.38,Los Angeles,Spanish,546,3138,6,Technology,22/02/2022,Pixel Pioneers
+280934,Women 18-24,Brand Awareness,15 Days,Twitter,0.09,$500.00,5.78,Las Vegas,French,547,3139,6,Food,03/06/2022,Culinary Quest
+182910,Men 25-34,Product Launch,15 Days,Instagram,0.09,$500.00,3.81,New York,English,547,3139,2,Home,12/09/2022,Space Spruce
+225653,All Ages,Product Launch,15 Days,Facebook,0.14,$500.00,6.37,New York,Spanish,547,3140,3,Technology,23/02/2022,Code Crafters
+637775,Men 25-34,Product Launch,15 Days,Facebook,0.01,$500.00,4.65,Austin,Spanish,547,3140,10,Health,22/03/2022,Pulse Point
+192632,Women 35-44,Brand Awareness,15 Days,Twitter,0.08,$500.00,4.85,Los Angeles,Spanish,547,3140,4,Fashion,14/06/2022,Fiber Fashion
+690197,Women 18-24,Product Launch,15 Days,Instagram,0.02,$500.00,7.66,New York,Spanish,547,3141,4,Home,10/11/2022,Nest Neat
+226651,Women 25-34,Market Expansion,15 Days,Facebook,0.14,$500.00,6.26,Austin,Spanish,547,3141,5,Home,26/09/2022,Furnish Fine
+650069,All Ages,Product Launch,15 Days,Twitter,0.09,$500.00,4.72,New York,Spanish,547,3141,10,Health,18/02/2022,Elixir Essence
+437044,Men 25-34,Brand Awareness,15 Days,Instagram,0.05,$500.00,1.36,Las Vegas,Spanish,548,3142,7,Fashion,14/10/2022,Style Sphere
+993473,Men 45-60,Increase Sales,15 Days,Twitter,0.09,$500.00,6.77,Austin,French,548,3142,6,Health,17/05/2022,Balance Beam
+703234,Men 35-44,Product Launch,15 Days,Facebook,0.04,$500.00,2.75,Los Angeles,English,548,3143,9,Fashion,29/05/2022,Attire Artistry
+205870,Men 25-34,Brand Awareness,15 Days,Twitter,0.02,$500.00,3.95,Miami,Spanish,548,3143,7,Health,12/06/2022,Vital Vigor
+732361,Women 45-60,Brand Awareness,15 Days,Twitter,0.13,$500.00,4.27,Austin,French,548,3143,6,Food,29/09/2022,Bistro Bliss
+846253,Men 45-60,Product Launch,15 Days,Facebook,0.03,$500.00,3.25,Las Vegas,French,548,3144,5,Technology,30/03/2022,Quantum Quirks
+614983,Women 35-44,Market Expansion,15 Days,Pinterest,0.13,$500.00,0.280633204,Austin,Spanish,321,2029,1,Technology,08/07/2022,NexGen Nerds
+588018,Women 25-34,Increase Sales,15 Days,Twitter,0.13,$500.00,4.53,Miami,French,548,3145,3,Health,17/09/2022,Aura Align
+592068,Women 25-34,Product Launch,15 Days,Pinterest,0.11,$500.00,1.281617881,Las Vegas,Spanish,322,2030,1,Fashion,04/02/2022,Fiber Fashion
+620297,Men 35-44,Product Launch,15 Days,Instagram,0.1,$500.00,5.33,New York,French,549,3145,7,Health,15/02/2022,Heal Hub
+923567,Women 45-60,Market Expansion,15 Days,Instagram,0.12,$500.00,5.96,New York,English,549,3146,3,Fashion,11/06/2022,Glam Garments
+708938,Women 18-24,Increase Sales,15 Days,Pinterest,0.1,$500.00,0.740013672,Los Angeles,French,322,2031,1,Fashion,12/04/2022,Silk & Style
+264626,Women 45-60,Market Expansion,15 Days,Instagram,0.09,$500.00,0.82,New York,English,549,3147,5,Technology,11/04/2022,Tech Titans
+611494,Women 45-60,Brand Awareness,15 Days,Facebook,0.06,$500.00,1.47,Austin,French,549,3147,7,Home,07/08/2022,Furnish Fine
+216406,Women 18-24,Brand Awareness,15 Days,Facebook,0.09,$500.00,4.37,New York,English,549,3147,1,Technology,03/07/2022,Quantum Quirks
+556618,All Ages,Brand Awareness,15 Days,Twitter,0.14,$500.00,3.11,Los Angeles,Spanish,550,3148,7,Home,07/04/2022,Space Spruce
+473816,Women 45-60,Increase Sales,15 Days,Twitter,0.12,$500.00,7.04,Miami,Spanish,550,3148,3,Home,23/05/2022,Domestic Dream
+641796,Men 18-24,Market Expansion,15 Days,Twitter,0.06,$500.00,2.64,Miami,English,550,3148,7,Home,04/09/2022,Cozy Corners
+152567,Women 35-44,Increase Sales,15 Days,Facebook,0.09,$500.00,7.95,Los Angeles,English,550,3149,6,Home,24/01/2022,Space Spruce
+498755,Women 18-24,Increase Sales,15 Days,Instagram,0.05,$500.00,2.5,New York,French,550,3149,6,Food,09/05/2022,Palate Paradise
+307630,Men 35-44,Market Expansion,15 Days,Twitter,0.03,$500.00,5.37,Miami,French,550,3150,7,Home,14/11/2022,Decor Dreams
+502521,Women 35-44,Product Launch,15 Days,Pinterest,0.04,$500.00,0.266333423,Miami,Spanish,323,2033,1,Food,20/11/2022,Dine Divine
+164195,Women 35-44,Market Expansion,15 Days,Instagram,0.05,$500.00,5.12,Miami,English,550,3150,10,Health,10/12/2022,Vigor Valley
+849644,Women 35-44,Market Expansion,15 Days,Twitter,0.1,$500.00,1.08,Austin,English,551,3151,3,Health,11/03/2022,Wellness Waves
+287691,All Ages,Increase Sales,15 Days,Instagram,0.03,$500.00,7.57,Austin,English,551,3151,2,Health,21/07/2022,Vigor Valley
+481554,Women 45-60,Product Launch,15 Days,Twitter,0.12,$500.00,0.89,Los Angeles,English,551,3152,7,Food,11/08/2022,Feast Flavors
+310859,Men 35-44,Product Launch,15 Days,Twitter,0.11,$500.00,6.78,Austin,English,551,3152,6,Technology,04/12/2022,Silicon Saga
+456211,Men 35-44,Market Expansion,15 Days,Pinterest,0.03,$500.00,0.486192557,Los Angeles,French,323,2035,1,Food,11/06/2022,Feast Flavors
+251775,Women 45-60,Market Expansion,15 Days,Facebook,0.02,$500.00,0.24,New York,English,551,3153,6,Food,08/08/2022,Nosh Nirvana
+901527,Men 18-24,Increase Sales,15 Days,Twitter,0.07,$500.00,6.16,New York,French,551,3153,1,Food,11/05/2022,Palate Paradise
+216315,Men 35-44,Increase Sales,15 Days,Instagram,0.12,$500.00,6.23,Austin,English,552,3154,7,Health,20/01/2022,Heal Hub
+575624,Men 18-24,Increase Sales,15 Days,Pinterest,0.08,$500.00,0.017874726,Austin,French,324,2036,1,Fashion,22/09/2022,Attire Artistry
+329951,Men 35-44,Brand Awareness,15 Days,Pinterest,0.13,$500.00,0.656002458,New York,English,324,2036,1,Home,05/02/2022,Dwell Delight
+631289,Men 35-44,Increase Sales,15 Days,Twitter,0.05,$500.00,0.34,Miami,French,552,3155,8,Home,24/05/2022,Nest Neat
+718199,Women 35-44,Increase Sales,15 Days,Twitter,0.03,$500.00,2.46,Austin,French,552,3155,10,Home,01/09/2022,Hearth Harmony
+466299,Women 18-24,Brand Awareness,15 Days,Facebook,0.03,$500.00,5.13,Miami,Spanish,552,3156,8,Food,06/10/2022,Culinary Quest
+127981,Women 45-60,Product Launch,15 Days,Instagram,0.01,$500.00,4.8,Los Angeles,Spanish,552,3156,7,Technology,19/03/2022,Tech Titans
+921915,Women 35-44,Market Expansion,15 Days,Instagram,0.15,$500.00,1.15,New York,Spanish,552,3156,8,Home,18/04/2022,Hearth Harmony
+301309,Women 45-60,Increase Sales,15 Days,Twitter,0.02,$500.00,6.8,Las Vegas,English,553,3157,6,Health,08/08/2022,Aura Align
+295736,Women 45-60,Increase Sales,15 Days,Pinterest,0.12,$500.00,0.117973194,New York,Spanish,324,2038,1,Fashion,06/07/2022,Glam Garments
+601144,Men 45-60,Brand Awareness,15 Days,Facebook,0.06,$500.00,6.33,Austin,French,553,3157,7,Food,29/03/2022,Dine Divine
+216063,Men 45-60,Increase Sales,15 Days,Twitter,0.02,$500.00,5.93,Los Angeles,Spanish,553,3158,1,Health,25/03/2022,Aura Align
+675890,Women 35-44,Product Launch,15 Days,Facebook,0.03,$500.00,7.73,Miami,French,553,3158,8,Food,04/10/2022,Nosh Nirvana
+961465,Men 18-24,Increase Sales,15 Days,Facebook,0.14,$500.00,2.03,Las Vegas,Spanish,553,3159,5,Health,13/06/2022,Pulse Point
+835159,Men 45-60,Market Expansion,15 Days,Facebook,0.12,$500.00,5.37,Miami,Spanish,553,3159,8,Fashion,26/11/2022,Fiber Fashion
+747713,Women 45-60,Product Launch,15 Days,Instagram,0.07,$500.00,3.19,Austin,French,553,3159,2,Home,15/01/2022,Decor Dreams
+657884,Men 18-24,Brand Awareness,15 Days,Pinterest,0.03,$500.00,0.048261761,Austin,French,325,2040,1,Food,23/12/2022,Gourmet Grove
+794598,Men 25-34,Product Launch,15 Days,Twitter,0.09,$500.00,1.64,Los Angeles,French,554,3160,2,Food,06/10/2022,Palate Paradise
+844227,Men 25-34,Market Expansion,15 Days,Instagram,0.09,$500.00,3.26,Miami,French,554,3161,2,Home,15/01/2022,Hearth Harmony
+891549,Men 25-34,Brand Awareness,15 Days,Twitter,0.13,$500.00,5.57,Austin,French,554,3161,7,Technology,13/12/2022,Cyber Circuit
+777699,Women 35-44,Brand Awareness,15 Days,Facebook,0.12,$500.00,3.94,Miami,English,554,3161,7,Home,13/08/2022,Decor Dreams
+545538,Men 45-60,Market Expansion,15 Days,Facebook,0.13,$500.00,4.44,Austin,English,554,3162,5,Health,29/08/2022,Vital Vigor
+258445,Men 45-60,Product Launch,15 Days,Pinterest,0.04,$500.00,0.77933807,New York,Spanish,325,2041,1,Technology,28/08/2022,Gadget Giants
+681531,Men 25-34,Brand Awareness,15 Days,Twitter,0.05,$500.00,2.82,Los Angeles,French,555,3163,8,Food,27/02/2022,Palate Paradise
+625953,Men 18-24,Product Launch,15 Days,Twitter,0.11,$500.00,5.92,Los Angeles,Spanish,555,3163,8,Fashion,23/11/2022,Silk & Style
+786903,All Ages,Increase Sales,15 Days,Twitter,0.07,$500.00,3.19,Austin,Spanish,555,3163,1,Fashion,05/07/2022,Style Sphere
+276494,Men 45-60,Brand Awareness,15 Days,Twitter,0.11,$500.00,7.45,Las Vegas,English,555,3164,1,Food,25/11/2022,Feast Flavors
+423380,All Ages,Brand Awareness,15 Days,Pinterest,0.09,$500.00,1.315579861,Miami,French,325,2042,1,Home,25/01/2022,Dwell Delight
+176467,All Ages,Increase Sales,15 Days,Facebook,0.14,$500.00,4.23,New York,French,555,3164,7,Health,22/12/2022,Well Wish
+124236,Women 45-60,Brand Awareness,15 Days,Facebook,0.14,$500.00,1.39,Austin,English,555,3165,6,Food,02/12/2022,Savor Street
+280070,Men 18-24,Product Launch,15 Days,Instagram,0.02,$500.00,7.5,Austin,English,555,3165,3,Home,21/02/2022,Dwell Delight
+697985,All Ages,Market Expansion,15 Days,Instagram,0.02,$500.00,5.1,Austin,English,556,3166,10,Fashion,17/08/2022,Mode Maven
+962482,Men 25-34,Increase Sales,15 Days,Facebook,0.13,$500.00,1.48,New York,Spanish,556,3166,2,Fashion,13/02/2022,Chic Couture
+813995,Men 45-60,Increase Sales,15 Days,Twitter,0.13,$500.00,7.75,Miami,Spanish,556,3166,8,Technology,12/06/2022,Silicon Saga
+159789,Men 25-34,Market Expansion,15 Days,Instagram,0.07,$500.00,7.33,New York,English,556,3167,5,Fashion,28/01/2022,Mode Maven
+674065,All Ages,Product Launch,15 Days,Instagram,0.13,$500.00,0.09,Miami,English,556,3167,7,Fashion,22/06/2022,Trend Tailors
+989626,Men 45-60,Increase Sales,15 Days,Instagram,0.03,$500.00,2.15,Miami,Spanish,556,3168,10,Health,02/12/2022,Vigor Valley
+967001,Women 45-60,Product Launch,15 Days,Pinterest,0.04,$500.00,1.329879642,Las Vegas,Spanish,326,2045,1,Home,24/03/2022,Cozy Corners
+339467,Women 35-44,Increase Sales,15 Days,Twitter,0.05,$500.00,1.25,Las Vegas,English,557,3168,3,Health,03/12/2022,Wellness Waves
+425693,Women 45-60,Market Expansion,15 Days,Facebook,0.03,$500.00,7.03,Los Angeles,English,557,3169,10,Health,03/11/2022,Elixir Essence
+803667,Women 35-44,Product Launch,15 Days,Instagram,0.09,$500.00,3.74,Miami,French,557,3169,4,Fashion,07/02/2022,Silk & Style
+987876,All Ages,Increase Sales,15 Days,Twitter,0.12,$500.00,3.11,Miami,Spanish,557,3170,8,Food,24/05/2022,Bistro Bliss
+293351,Men 35-44,Brand Awareness,15 Days,Pinterest,0.11,$500.00,0.336044856,Austin,French,327,2046,1,Fashion,03/12/2022,Silk & Style
+470466,Women 35-44,Brand Awareness,15 Days,Pinterest,0.09,$500.00,0.714989055,Los Angeles,English,327,2046,1,Food,14/02/2022,Feast Flavors
+600119,Women 35-44,Market Expansion,15 Days,Pinterest,0.11,$500.00,0.479042667,New York,Spanish,327,2047,1,Health,27/06/2022,Vigor Valley
+514741,Men 35-44,Market Expansion,15 Days,Instagram,0.08,$500.00,0.3,New York,Spanish,557,3171,9,Home,05/01/2022,Living Luxe
+224043,All Ages,Brand Awareness,15 Days,Twitter,0.08,$500.00,5.9,Austin,English,558,3171,8,Health,11/05/2022,Balance Beam
+347540,Women 45-60,Product Launch,15 Days,Facebook,0.13,$500.00,1.18,Las Vegas,French,558,3172,2,Health,07/08/2022,Elixir Essence
+292247,Women 25-34,Product Launch,15 Days,Twitter,0.04,$500.00,3.62,New York,Spanish,558,3172,4,Food,22/12/2022,Feast Flavors
+227803,Women 25-34,Product Launch,15 Days,Twitter,0.05,$500.00,5.17,Las Vegas,English,558,3173,5,Food,08/09/2022,Savor Street
+689877,Women 25-34,Brand Awareness,15 Days,Instagram,0.03,$500.00,7.96,New York,Spanish,558,3173,1,Technology,17/02/2022,Innovate Infinity
+110202,Men 25-34,Market Expansion,15 Days,Pinterest,0.13,$500.00,0.49512992,Miami,Spanish,327,2048,1,Health,15/10/2022,Pulse Point
+693150,Women 45-60,Product Launch,15 Days,Pinterest,0.07,$500.00,1.201181612,Los Angeles,English,327,2049,1,Technology,24/08/2022,Giga Geeks
+524869,Women 45-60,Brand Awareness,15 Days,Facebook,0.13,$500.00,1.12,Miami,French,558,3174,9,Home,12/03/2022,Domestic Dream
+250798,Men 35-44,Product Launch,15 Days,Twitter,0.07,$500.00,1.08,New York,Spanish,559,3175,4,Food,17/06/2022,Bistro Bliss
+633886,All Ages,Market Expansion,15 Days,Twitter,0.07,$500.00,3.78,Los Angeles,French,559,3175,7,Technology,01/05/2022,Giga Geeks
+539455,Women 45-60,Product Launch,15 Days,Twitter,0.06,$500.00,5.88,Las Vegas,Spanish,559,3175,10,Home,14/07/2022,Dwell Delight
+703836,Women 45-60,Market Expansion,15 Days,Facebook,0.14,$500.00,4.89,Miami,French,559,3176,5,Health,30/04/2022,Heal Hub
+246572,Men 25-34,Increase Sales,15 Days,Twitter,0.05,$500.00,5.75,New York,French,559,3176,4,Technology,23/05/2022,Cyber Circuit
+202554,Men 25-34,Market Expansion,15 Days,Pinterest,0.03,$500.00,1.072483582,Austin,Spanish,328,2051,1,Food,11/12/2022,Nosh Nirvana
+552735,Men 25-34,Market Expansion,15 Days,Facebook,0.11,$500.00,0.1,Austin,French,559,3177,9,Technology,14/12/2022,Gadget Giants
+582529,All Ages,Increase Sales,15 Days,Pinterest,0.07,$500.00,0.577353662,Miami,French,328,2051,1,Food,02/04/2022,Savor Street
+135107,Women 18-24,Market Expansion,15 Days,Instagram,0.1,$500.00,0.1,Austin,French,560,3178,1,Health,18/08/2022,Well Wish
+470423,Men 35-44,Brand Awareness,15 Days,Pinterest,0.02,$500.00,0.575566189,Austin,English,328,2051,1,Technology,03/03/2022,Gadget Giants
+657732,Women 45-60,Brand Awareness,15 Days,Twitter,0.07,$500.00,1.46,Austin,French,560,3179,3,Fashion,31/05/2022,Glam Garments
+894429,Women 35-44,Increase Sales,15 Days,Twitter,0.15,$500.00,7.66,Miami,Spanish,560,3179,6,Technology,26/01/2022,Cyber Circuit
+684309,Men 35-44,Market Expansion,15 Days,Facebook,0.07,$500.00,5,Las Vegas,French,560,3179,8,Health,29/06/2022,Fitness Front
+852453,Women 35-44,Increase Sales,15 Days,Instagram,0.03,$500.00,7.58,Miami,Spanish,560,3180,3,Health,02/07/2022,Elixir Essence
+982869,Women 35-44,Market Expansion,15 Days,Pinterest,0.14,$500.00,0.362856945,New York,Spanish,328,2053,1,Home,07/12/2022,Dwell Delight
+190629,Men 45-60,Market Expansion,15 Days,Instagram,0.03,$500.00,3.13,Miami,French,561,3180,1,Home,03/10/2022,Nest Neat
+836246,Men 45-60,Increase Sales,15 Days,Instagram,0.07,$500.00,4.78,Las Vegas,French,561,3181,3,Food,18/03/2022,Epicurean Edge
+910463,Men 35-44,Market Expansion,15 Days,Facebook,0.13,$500.00,7.19,Miami,French,561,3181,7,Technology,14/09/2022,NexGen Nerds
+338798,Women 25-34,Brand Awareness,15 Days,Pinterest,0.11,$500.00,1.140407542,New York,Spanish,329,2054,1,Food,15/11/2022,Palate Paradise
+424158,Men 18-24,Market Expansion,15 Days,Instagram,0.07,$500.00,0.8,Los Angeles,French,561,3182,4,Food,13/02/2022,Gourmet Grove
+703826,Men 18-24,Market Expansion,15 Days,Pinterest,0.15,$500.00,1.097508199,New York,Spanish,329,2054,1,Home,13/12/2022,Homely Haven
+123671,Men 35-44,Product Launch,15 Days,Pinterest,0.05,$500.00,0.809725104,Los Angeles,English,329,2055,1,Technology,10/06/2022,Innovate Infinity
+533414,Men 45-60,Increase Sales,15 Days,Instagram,0.06,$500.00,5.43,Las Vegas,English,562,3183,5,Health,23/06/2022,Balance Beam
+552053,Men 18-24,Market Expansion,15 Days,Twitter,0.08,$500.00,0.56,Los Angeles,French,562,3184,2,Fashion,25/01/2022,Trend Tailors
+854592,Men 45-60,Increase Sales,15 Days,Instagram,0.12,$500.00,6.82,Los Angeles,Spanish,562,3184,10,Food,16/12/2022,Savor Street
+241686,Women 25-34,Product Launch,15 Days,Twitter,0.02,$500.00,2.26,Las Vegas,English,562,3184,2,Fashion,22/07/2022,Style Sphere
+720007,Men 45-60,Brand Awareness,15 Days,Twitter,0.02,$500.00,7.08,Austin,English,562,3185,7,Technology,31/01/2022,Silicon Saga
+969255,Women 18-24,Brand Awareness,15 Days,Pinterest,0.13,$500.00,0.175172318,New York,Spanish,330,2056,1,Food,15/08/2022,Bistro Bliss
+129888,Men 45-60,Product Launch,15 Days,Instagram,0.03,$500.00,3.6,Miami,Spanish,562,3186,6,Health,18/10/2022,Vigor Valley
+499901,All Ages,Increase Sales,15 Days,Instagram,0.14,$500.00,6.42,Miami,Spanish,562,3186,3,Food,15/05/2022,Bistro Bliss
+221743,Women 25-34,Product Launch,15 Days,Pinterest,0.1,$500.00,0.925910826,Las Vegas,French,330,2057,1,Home,30/09/2022,Nest Neat
+927718,Men 18-24,Market Expansion,15 Days,Facebook,0.11,$500.00,2.34,Miami,English,563,3187,9,Technology,13/06/2022,Silicon Saga
+245333,Women 25-34,Market Expansion,15 Days,Instagram,0.12,$500.00,2.9,Miami,French,563,3187,7,Technology,30/11/2022,Code Crafters
+479539,Men 45-60,Market Expansion,15 Days,Twitter,0.12,$500.00,5.58,New York,English,563,3187,2,Home,27/11/2022,Furnish Fine
+899315,All Ages,Brand Awareness,15 Days,Twitter,0.08,$500.00,4.72,Los Angeles,Spanish,563,3188,1,Technology,15/06/2022,Code Crafters
+447327,Men 35-44,Increase Sales,15 Days,Pinterest,0.05,$500.00,1.381716348,New York,English,330,2058,1,Health,20/07/2022,Elixir Essence
+861537,Men 45-60,Product Launch,15 Days,Twitter,0.04,$500.00,1.51,Austin,English,563,3189,5,Food,31/03/2022,Dine Divine
+319058,Men 18-24,Brand Awareness,15 Days,Facebook,0.04,$500.00,4.09,Las Vegas,English,563,3189,9,Health,30/08/2022,Balance Beam
+311325,Men 25-34,Market Expansion,15 Days,Instagram,0.07,$500.00,3.24,New York,English,564,3189,7,Technology,22/07/2022,Pixel Pioneers
+565301,Men 18-24,Increase Sales,15 Days,Instagram,0.07,$500.00,3.1,Los Angeles,Spanish,564,3190,3,Health,25/06/2022,Fitness Front
+256048,Men 35-44,Product Launch,15 Days,Instagram,0.08,$500.00,4.24,Las Vegas,Spanish,564,3190,8,Fashion,24/08/2022,Fiber Fashion
+734078,Women 18-24,Product Launch,15 Days,Facebook,0.13,$500.00,2.77,Austin,English,564,3191,3,Food,28/03/2022,Epicurean Edge
+517211,Men 35-44,Product Launch,15 Days,Facebook,0.09,$500.00,2.46,Las Vegas,English,564,3191,3,Home,17/05/2022,Furnish Fine
+489250,All Ages,Brand Awareness,15 Days,Instagram,0.04,$500.00,2.66,Los Angeles,French,564,3191,3,Home,27/07/2022,Decor Dreams
+917520,Women 35-44,Increase Sales,15 Days,Pinterest,0.09,$500.00,0.008937363,Miami,English,331,2060,1,Home,11/03/2022,Living Luxe
+160282,Men 25-34,Product Launch,15 Days,Pinterest,0.12,$500.00,1.110020507,Miami,English,331,2060,1,Health,28/08/2022,Vigor Valley
+166912,Women 45-60,Product Launch,15 Days,Pinterest,0.12,$500.00,0.260971005,Las Vegas,English,331,2061,1,Fashion,08/11/2022,Fiber Fashion
+711138,Women 18-24,Increase Sales,15 Days,Pinterest,0.02,$500.00,0.294932985,Austin,French,331,2061,1,Home,05/05/2022,Living Luxe
+493940,Men 35-44,Product Launch,15 Days,Instagram,0.04,$500.00,1.91,Las Vegas,English,565,3193,8,Health,02/04/2022,Pulse Point
+572042,Men 35-44,Market Expansion,15 Days,Facebook,0.07,$500.00,4.47,Miami,French,565,3194,7,Home,08/01/2022,Hearth Harmony

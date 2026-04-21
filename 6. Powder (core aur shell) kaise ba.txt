@@ -1,0 +1,46 @@
+6. Powder (core aur shell) kaise banayen UV–Vis/FTIR ke liye?
+6.1. CoMn₂O₄ (core) powder
+Co(NO₃)₂·6H₂O + Mn(NO₃)₂·4H₂O + urea aqueous solution se hydrothermal + calcination se spinel CoMn₂O₄ powder ban sakta hai.
+​
+
+Typical: 0.29 g Co salt, 0.50 g Mn salt, 0.30 g urea, 60 mL water, 120 °C/12 h hydrothermal; phir collect, wash, dry; 300–400 °C air mein 2–3 h calcination.
+​
+
+Ye powder FTIR mein M–O stretching (≈400–700 cm⁻¹) aur UV–Vis mein oxide‑type bandgap/absorption show karega.
+​
+
+6.2. CoMn₂O₄@Co–Mn sulfide / MnCo₂S₄‑type powder
+Route A – core powder ko sulfidize karna:
+
+Core CoMn₂O₄ powder ko thiourea solution (0.05–0.1 M) mein disperse karke 120 °C par 6–8 h hydrothermal treat karo.
+​
+
+Wash + dry; optional N₂ annealing 250–300 °C. Ye sulfidated core@shell powder milega.
+​
+
+Route B – direct MnCo₂S₄ powder:
+
+Co/Mn nitrates + thiourea (excess) ka aqueous mixture hydrothermal 160–180 °C, 12–18 h treat karke direct MnCo₂S₄ powder obtain kiya ja sakta hai (literature methods).
+​
+
+Ye FTIR mein M–S bands (≈200–500 cm⁻¹) aur UV–Vis mein sulfide‑type absorption edge show karega.
+​
+
+7. Urea ka role kya hai (donon oxide aur sulfide syntheses mein)?
+Hydrothermal metal oxide/spinel systems mein urea slowly hydrolyze ho kar OH⁻ generate karti hai, jo metal cations ke sath hydroxide/oxide precursor banati hai; calcination se spinel oxide banta hai (NiCo₂O₄, CoMn₂O₄, etc.).
+​
+
+Urea ki concentration morphology (size, porosity) aur crystallinity dono pe strong effect daalti hai.
+​
+
+Kayi sulfide systems mein urea thiourea ke sath mil kar pH aur complexation ko tune karti hai, lekin S²⁻ primary thiourea/TAA se aata hai.
+​
+
+Agar tum apne lab ke available reagents clear likh do (thiourea hai ya sirf Na₂S, CTAB/PVP available hain ya nahi), to ek final exact recipe (grams, mL, time, temperature) likh sakta hoon:
+
+CoMn₂O₄ powder,
+
+sulfidated powder (thiourea se),
+
+electrode on Ni foam – teeno perfectly aligned ek hi system ke liye.
+
